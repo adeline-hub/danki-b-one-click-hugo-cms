@@ -56,7 +56,17 @@ module.exports = {
       }
     ]
   },
-
+// Remplacez votre bloc actuel par celui-ci
+  resolve: {
+    fallback: {
+      "url": "empty-module", // Syntaxe simplifiée, référence directe au module
+      "path": false,
+      "fs": false,
+      "util": false, // Ajout d'une protection supplémentaire
+      "stream": false,
+      "buffer": false
+    }
+  },
   plugins: [
     new AssetsPlugin({
       filename: "webpack.json",
