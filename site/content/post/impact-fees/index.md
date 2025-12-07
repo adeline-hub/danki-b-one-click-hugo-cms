@@ -4,10 +4,13 @@ date: 2025-01-20T15:04:10.000Z
 description: >
   A 2025 #big data analysis on OPCVM fees challenges the common assumption that Impact and ISR funds are costlier. We compare the Total Expense Ratio (TER) of hundreds of funds to deliver the objective, data-driven answer investors need for strategic allocation.
 
-#ISRInvest #OPCVM #TERAnalysis #FundFees #FinancialDataAnalysis 
-#ImpactInvesting #ESGInvestment #SustainableFinance #FinancialLiteracy #MakingSense
-#DankiData #MaximumInsight #ObjectiveInsights #TechForFinance #2025Finance
-#DataScience #CorporateFinance #AssetManagement #QuantitativeFinance #bigdataanalysis
+tags:
+  - DankiData
+  - MaximumInsight
+  - MinimalistData
+  - DataScience
+  - DataEngineering
+  - BI
 
 image: blog-opcvm-ter-analysis.jpg
 ---

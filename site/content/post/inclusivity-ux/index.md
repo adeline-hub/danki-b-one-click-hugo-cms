@@ -2,8 +2,14 @@
 title: Data for Everyone: Achieving Inclusivity through UX and Data Vulgarisation
 date: 2024-07-30T15:04:10.000Z
 description: Data is useless if it's not understood. This post focuses on data inclusivity principles. We discuss best practices for dashboard design (UX) and the art of data vulgarisation (simplification) to empower management and non-technical teams with data-driven decision-making.
-#DankiData #MaximumInsight #MinimalistData
-#DataForGood, #AnalyticsCommunity, #TechForImpact
+
+tags:
+  - DankiData
+  - MaximumInsight
+  - MinimalistData
+  - DataScience
+  - DataEngineering
+  - BI
 image: blog-chemex.jpg
 ---
 

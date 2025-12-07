@@ -3,8 +3,14 @@ title: The Power of Simplicity: Using Data Vulgarisation to Drive Project Succes
 date: 2024-08-10T15:04:10.000Z
 description: >
   Showcasing **Data Inclusivity**. We detail how to apply superior **data visualization UX** and the art of **data vulgarisation** (simplification) to ensure complex metrics are understood by diverse stakeholders in international cooperation projects.
-#DankiData #MaximumInsight #MinimalistData
-#DataScience, #BI, #DataForGood, #AnalyticsCommunity, #TechForImpact
+
+tags:
+  - DankiData
+  - MaximumInsight
+  - MinimalistData
+  - DataScience
+  - DataEngineering
+  - BI
 image: blog-data-inclusivity-ux.jpg
 ---
 

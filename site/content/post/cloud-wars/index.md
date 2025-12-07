@@ -3,8 +3,14 @@ title: Cloud Wars: Choosing the Right Modern Data Architecture for Health Data C
 date: 2024-06-25T15:04:10.000Z
 description: >
   Leverage our expertise in **Cloud Platforms (AWS, Azure, GCP)** and **Data Governance**. This post outlines architecture decision-making (data warehouses, big data frameworks) and security best practices to handle sensitive health data while maintaining regulatory compliance (e.g., HIPAA).
-#DankiData #MaximumInsight #MinimalistData
-#DataScience, #DataEngineering, #CloudArchitecture, #BI
+
+tags:
+  - DankiData
+  - MaximumInsight
+  - MinimalistData
+  - DataScience
+  - DataEngineering
+  - BI
 image: blog-cloud-security-architecture.jpg
 ---
 

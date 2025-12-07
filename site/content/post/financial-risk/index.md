@@ -3,8 +3,14 @@ title: Financial Risk Scenario Calibration: A Deep Dive into Banking & Investmen
 date: 2024-10-20T15:04:10.000Z
 description: >
   Specialized expertise in **financial scenario management**. We detail the statistical and engineering processes required to **review and calibrate scenarios** for regulatory and advisory applications in the Banking and Investment sectors, ensuring governance and accuracy.
-#DankiData #MaximumInsight #MinimalistData
-#DataScience, #BI, #DataEngineering
+
+tags:
+  - DankiData
+  - MaximumInsight
+  - MinimalistData
+  - DataScience
+  - DataEngineering
+  - BI
 image: blog-scenario-calibration-chart.jpg
 ---
 

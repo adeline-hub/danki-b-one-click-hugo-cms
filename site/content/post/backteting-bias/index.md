@@ -3,8 +3,14 @@ title: Backtesting and Bias: Model Validation for Impact Investment Risk Scenari
 date: 2024-05-20T15:04:10.000Z
 description: >
   A technical deep dive into **model validation**. We cover how to perform rigorous **backtesting** and evaluate model performance using metrics like **precision** and **recall** to build trustworthy financial and risk models for Impact Investment decision-making.
-#DankiData #MaximumInsight #MinimalistData
-#DataScience, #DataEngineering, #BI
+
+tags:
+  - DankiData
+  - MaximumInsight
+  - MinimalistData
+  - DataScience
+  - DataEngineering
+  - BI
 image: blog-model-validation-chart.jpg
 ---
 

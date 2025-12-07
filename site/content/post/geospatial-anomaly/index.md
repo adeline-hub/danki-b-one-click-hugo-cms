@@ -3,8 +3,14 @@ title: Geospatial Anomaly Detection: Identifying Supply Chain Risk in Citrus Pro
 date: 2024-04-15T15:04:10.000Z
 description: >
   Achieve **Objective Insights** by combining statistical analysis and geospatial mapping. This post covers **anomaly detection** and **end-to-end analysis** to pinpoint and visualize threats (weather, logistics, political) across a global supply chain, linking data to 'Territory'.
-#DankiData #MaximumInsight #MinimalistData
-#DataScience, #BI, #CitrusSupplyChain, #GIPS
+
+tags:
+  - DankiData
+  - MaximumInsight
+  - MinimalistData
+  - DataScience
+  - DataEngineering
+  - BI
 image: blog-supply-chain-map.jpg
 ---
 

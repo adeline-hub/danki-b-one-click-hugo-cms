@@ -3,7 +3,14 @@ title: Data Art as Activism: The Legacy of W.E.B. Du Bois in Modern Data Visuali
 date: 2024-11-25T15:04:10.000Z
 description: >
   A study of W.E.B. Du Bois's hand-drawn data art from the Paris Exposition (1900) and its modern application. We explore techniques for creating emotionally engaging, artful visualizations that transcend simple reporting, promoting **data engagement** and deeper social understanding.
-#DataArt #DuBoisCharts #DataEngagement #DataVulgarisation #HistoricalStudies #DataVisualization #DataScience #DataAnalytics #DataStorytelling #UXDesign #DankiData #MaximumInsight #MinimalistData
+
+tags:
+  - DankiData
+  - MaximumInsight
+  - MinimalistData
+  - DataScience
+  - DataEngineering
+  - BI
 image: blog-web-dubois-art.jpg
 ---
 

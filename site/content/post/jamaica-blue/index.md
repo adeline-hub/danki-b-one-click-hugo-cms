@@ -3,9 +3,14 @@ title: Navigating the Mediterranean Blue Economy: Data-Driven Insights for Susta
 date: 2024-03-22T15:04:10.000Z
 description: >
   The Mediterranean Blue Economy is a complex ecosystem. This post uses data analysis and visualization to unpack its potential, from sustainable aquaculture to maritime transport, offering insights for policymakers and investors committed to responsible development in this vital 'Territory'.
-#DankiData #MaximumInsight #MinimalistData #AnalyticsCommunity #SustainableTech
-#BlueEconomy #MediterraneanSea #SustainableDevelopmentGoals #MaritimeTransport #AquacultureData
-#DataAnalytics #DataVisualization #ESGData #GeospatialAnalysis #EnvironmentalData
+
+tags:
+  - DankiData
+  - MaximumInsight
+  - MinimalistData
+  - DataScience
+  - DataEngineering
+  - BI
 image: blog-mediterranean-blue-economy.jpg
 ---
 

@@ -3,7 +3,14 @@ title: Le Labyrinthe des Langages ESG en Finance
 date: 2025-12-07T19:40:00.000Z
 description: >
   De l'ISR à l'Article 9, le jargon ESG évolue plus vite que la capacité des systèmes de données à le suivre. Nous décryptons la nécessité d'une harmonisation des indicateurs et comment l'architecture de données minimaliste est la clé pour naviguer entre labels, régulations et le risque de greenwashing.
-#LangagesESG #FinanceDurable #Greenwashing #DataIntegrity #PRI #SFDR #TCFD #DataScience #MinimalistData #ObjectivitéDesInsights #FinanceResponsable #DankiData
+
+tags:
+  - DankiData
+  - MaximumInsight
+  - MinimalistData
+  - DataScience
+  - DataEngineering
+  - BI
 image: blog-langages-esg-finance.jpg
 ---
 

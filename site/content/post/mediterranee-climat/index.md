@@ -3,9 +3,14 @@ title: La Méditerranée face aux Chocs Climatiques : Insécurités, Conflits, A
 date: 2023-12-05T15:04:10.000Z
 description: >
   Le bassin méditerranéen, désigné comme un "hotspot" du dérèglement climatique, est confronté à une amplification des sécheresses, vagues de chaleur et inondations. Notre analyse, s'appuyant notamment sur les travaux de l'iReMMO, décortique comment ces chocs environnementaux exacerbent les tensions géopolitiques, les conflits et l'insécurité, et comment le recours à une analyse de données critique est vital pour l'adaptation.
-#ChangementClimatique #Méditerranée #GéopolitiqueClimatique #StressHydrique #InsécuritéAlimentaire
-#DataScience #AnalyseGéospatiale #DéveloppementDurable #BigDataAnalysis #Modélisation
-#DankiData #MaximumInsight #ObjectivitéDesInsights #DataForGood #TechForChange
+
+tags:
+  - DankiData
+  - MaximumInsight
+  - MinimalistData
+  - DataScience
+  - DataEngineering
+  - BI
 image: blog-mediterranee-climat-conflits.jpg
 ---
 

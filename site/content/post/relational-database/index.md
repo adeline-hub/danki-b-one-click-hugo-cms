@@ -3,6 +3,14 @@ title: Reconstructing the Relational Database: A Case Study in Auditing a Histor
 date: 2024-09-15T15:04:10.000Z
 description: >
   A technical walkthrough of **auditing the existing data stack** and the complex process of **reconstructing a reliable database** (BDD) from legacy or fragmented systems, critical for meaningful analysis in historical studies or legacy migrations.
+
+tags:
+  - DankiData
+  - MaximumInsight
+  - MinimalistData
+  - DataScience
+  - DataEngineering
+  - BI
 image: blog-database-reconstruction-diagram.jpg
 ---
 

@@ -3,6 +3,14 @@ title: The Minimalist ETL Pipeline: Automating ESG Data Collection with Python &
 date: 2024-03-10T15:04:10.000Z
 description: >
   Demonstrate **Data Minimalism** by simplifying complex regulatory data flow. We detail how to design and implement a robust, scalable ETL process using Python and Spark to handle large transactional ESG volumes, ensuring data quality, governance, and compliance.
+
+tags:
+  - DankiData
+  - MaximumInsight
+  - MinimalistData
+  - DataScience
+  - DataEngineering
+  - BI
 image: blog-etl-pipeline-spark.jpg
 ---
 

@@ -5,13 +5,11 @@
   "description": "Hugo template with Decap CMS ",
   "repository": "decaporg/one-click-hugo-cms",
   "main": "index.js",
-  "browser": {
-    "url": "url"
-  },
+
   "scripts": {
     "lint": "eslint src cypress",
     "start": "run-p start:**",
-    "start:hugo": "hugo -d ../dist -s site -vw",
+    "start:hugo": "hugo -d ../dist -s site -w",
     "start:webpack": "webpack-dev-server --config webpack.dev.js --hot",
     "preview": "run-p preview:**",
     "preview:hugo": "npm run start:hugo -- -D -F",
@@ -19,14 +17,20 @@
     "prebuild": "rimraf dist",
     "build": "npm run build:webpack && npm run build:hugo",
     "build:preview": "npm run build:webpack && npm run build:hugo:preview",
-    "build:hugo": "hugo -d ../dist -s site -v",
-    "build:hugo:preview": "npm run build:hugo -- -D -F",
+    "build:hugo": "hugo -d ../dist -s site",
+    "build:hugo:preview": "hugo -d ../dist -s site -D -F",
     "build:webpack": "cross-env NODE_ENV=production webpack --config webpack.prod.js",
     "cypress:open": "cypress open --e2e",
     "cypress:run": "cypress run --e2e"
   },
+
   "author": "",
   "license": "MIT",
+
+  "resolutions": {
+    "clean-stack": "2.2.0"
+  },
+
   "devDependencies": {
     "@babel/core": "^7.16.0",
     "@babel/eslint-parser": "^7.16.3",
@@ -69,6 +73,7 @@
     "webpack-dev-server": "^3.11.3",
     "webpack-merge": "^5.8.0"
   },
+
   "dependencies": {
     "@babel/preset-react": "^7.17.12",
     "cypress": "^15.7.0",
@@ -80,7 +85,9 @@
     "react-dom": "^19.2.1",
     "to-string-loader": "^1.2.0"
   },
+
   "engines": {
     "node": ">=20.1.0"
   }
 }
+

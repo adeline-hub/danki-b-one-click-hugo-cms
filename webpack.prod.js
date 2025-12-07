@@ -1,4 +1,4 @@
-const {merge} = require("webpack-merge");
+const { merge } = require("webpack-merge");
 const path = require("path");
 
 const TerserPlugin = require("terser-webpack-plugin");
@@ -30,6 +30,24 @@ module.exports = merge(common, {
         chunkFilename: "[id].[hash:5].css"
       }),
       new CssMinimizerPlugin(),
+    ]
+  },
+
+  // ★ PATCH ajouté ici
+  resolve: {
+    fullySpecified: false,
+    fallback: {
+      url: require.resolve("url/")
+    }
+  },
+
+  // ★ PATCH ajouté ici
+  module: {
+    rules: [
+      {
+        test: /node:/,
+        type: "javascript/auto"
+      }
     ]
   }
 });

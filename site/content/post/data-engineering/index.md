@@ -2,8 +2,14 @@
 title: The ETL Masterclass: Building Resilient Data Pipelines with Python and SQL
 date: 2024-03-10T15:04:10.000Z
 description: Dive deep into Data Modeling, ETL Processes, and data transformation techniques. We show you how to automate critical data tasks using Python and SQL, ensuring data quality, integrity, and security from source to report.
-#DankiData #MaximumInsight #MinimalistData
-#DataScience, #DataEngineering, #CloudArchitecture, #BI
+
+tags:
+  - DankiData
+  - MaximumInsight
+  - MinimalistData
+  - DataScience
+  - DataEngineering
+  - BI
 image: blog-chemex.jpg
 ---
 

@@ -3,9 +3,14 @@ title: MAKING SENSE: Why Data Literacy is Your Superpower in the Age of AI
 date: 2024-03-29T15:04:10.000Z
 description: >
   In a world increasingly shaped by AI, understanding data isn't just for specialists—it's essential for everyone. This post explores why critical, autonomous engagement with data is vital for becoming better citizens, managers, and friends in an era where AI is ever-present and rarely neutral.
-#DankiData #MaximumInsight #MakingSense #AnalyticsCommunity #TechForChange
-#DataLiteracy #AICriticalThinking #AlgorithmicBias #AIEthics #DataAutonomy
-#ArtificialIntelligence #DataScience #DigitalTransformation #FutureOfWork #CriticalThinking
+
+tags:
+  - DankiData
+  - MaximumInsight
+  - MinimalistData
+  - DataScience
+  - DataEngineering
+  - BI
 image: blog-making-sense-ai.jpg
 ---
 

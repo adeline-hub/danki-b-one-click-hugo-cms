@@ -3,8 +3,14 @@ title: Data Visualization and Citizenship: Mapping the Crisis of Violence Agains
 date: 2024-12-07T15:04:10.000Z
 description: >
   We analyze national and regional data on femicide and domestic violence in France, applying **statistical analysis** and **geospatial visualization** to uncover patterns of risk and resource scarcity. This post demonstrates how data visualization empowers citizens and informs public policy ('Territory').
-#DankiData #MaximumInsight #MinimalistData
-#DataScience, #BI, #DataForGood, #AnalyticsCommunity, #TechForImpact
+
+tags:
+  - DankiData
+  - MaximumInsight
+  - MinimalistData
+  - DataScience
+  - DataEngineering
+  - BI
 image: blog-femicide-map-france.jpg
 ---
 
