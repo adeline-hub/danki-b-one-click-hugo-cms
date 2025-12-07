@@ -57,17 +57,6 @@ module.exports = {
     ]
   },
 
-  resolve: {
-    fallback: {
-      "url": require.resolve("url/"), // Fixes the final build error
-      "path": false, // Good to keep for Decap CMS compatibility
-      "fs": false, // Good to keep for Decap CMS compatibility
-      "util": false,
-      "stream": false,
-      "buffer": false
-    }
-  },
-
   plugins: [
     new AssetsPlugin({
       filename: "webpack.json",
