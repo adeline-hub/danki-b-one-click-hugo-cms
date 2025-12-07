@@ -31,12 +31,5 @@ module.exports = merge(common, {
       }),
       new CssMinimizerPlugin(),
     ]
-  },
-    
-  resolve: {
-    fallback: {
-      "url": require.resolve("url/"),
-    },
   }
-
 });

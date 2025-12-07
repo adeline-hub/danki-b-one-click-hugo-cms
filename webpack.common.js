@@ -56,17 +56,18 @@ module.exports = {
       }
     ]
   },
-// Remplacez votre bloc actuel par celui-ci
+
   resolve: {
     fallback: {
-      "url": "empty-module", // Syntaxe simplifiée, référence directe au module
-      "path": false,
-      "fs": false,
-      "util": false, // Ajout d'une protection supplémentaire
-      "stream": false,
-      "buffer": false
+      "url": require.resolve("url/"), // Fixes the final build error
+      "path": false, // Good to keep for Decap CMS compatibility
+      "fs": false, // Good to keep for Decap CMS compatibility
+      "util": false,
+      "stream": false,
+      "buffer": false
     }
   },
+
   plugins: [
     new AssetsPlugin({
       filename: "webpack.json",
