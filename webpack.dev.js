@@ -35,5 +35,12 @@ module.exports = merge(common, {
       filename: "[name].css",
       chunkFilename: "[id].css"
     })
-  ]
+  ],
+
+    resolve: {
+        fallback: {
+        "url": require.resolve("url/"),
+        },
+        // ... existing resolve properties (like extensions) ...
+    }
 });
