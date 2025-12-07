@@ -14,9 +14,8 @@
   targetPort = 3000
 
 [[plugins]]
-  package = "netlify-plugin-cypress"
+package = "netlify-plugin-cypress"
 
   [plugins.inputs]
-    record = true
-    failBuildOnTestFailure = false	
+  record = true	
   
