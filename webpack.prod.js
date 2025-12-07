@@ -32,11 +32,11 @@ module.exports = merge(common, {
       new CssMinimizerPlugin(),
     ]
   },
+    
+  resolve: {
+    fallback: {
+      "url": require.resolve("url/"),
+    },
+  }
 
-    resolve: {
-      fallback: {
-        "url": require.resolve("url/"),
-      },
-      // ... existing resolve properties (like extensions) ...
-    }
 });
