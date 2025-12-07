@@ -1,4 +1,9 @@
 ---
+title: "Untitled"
+date: "2025-12-07T22:10:38.205Z"
+draft: false
+---
+---
 title: Geospatial Anomaly Detection: Identifying Supply Chain Risk in Citrus Production
 date: 2024-04-15T15:04:10.000Z
 description: >

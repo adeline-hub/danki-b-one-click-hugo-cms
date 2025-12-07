@@ -1,4 +1,9 @@
 ---
+title: "Untitled"
+date: "2025-12-07T22:10:38.193Z"
+draft: false
+---
+---
 title: La Méditerranée face aux Chocs Climatiques : Insécurités, Conflits, Adaptations
 date: 2023-12-05T15:04:10.000Z
 description: >

@@ -1,4 +1,9 @@
 ---
+title: "Untitled"
+date: "2025-12-07T22:10:38.207Z"
+draft: false
+---
+---
 title: Data Visualization and Citizenship: Mapping the Crisis of Violence Against Women in France
 date: 2024-12-07T15:04:10.000Z
 description: >

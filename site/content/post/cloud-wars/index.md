@@ -1,4 +1,9 @@
 ---
+title: "Untitled"
+date: "2025-12-07T22:10:38.210Z"
+draft: false
+---
+---
 title: Cloud Wars: Choosing the Right Modern Data Architecture for Health Data Compliance
 date: 2024-06-25T15:04:10.000Z
 description: >

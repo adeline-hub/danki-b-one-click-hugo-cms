@@ -1,4 +1,9 @@
 ---
+title: "Untitled"
+date: "2025-12-07T22:10:38.208Z"
+draft: false
+---
+---
 title: Beyond the Bar Chart: Delivering Data-Driven Decisions in a Fast-Paced Environment
 date: 2024-05-20T15:04:10.000Z
 description: Go from raw data to objective insights. We cover statistical analysis, hypothesis testing, regressions, and anomaly detection. Learn to create effective data visualisation using tools like Power BI and Tableau to gain time and drive immediate action.

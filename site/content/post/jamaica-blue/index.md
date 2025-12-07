@@ -1,4 +1,9 @@
 ---
+title: "Untitled"
+date: "2025-12-07T22:10:38.197Z"
+draft: false
+---
+---
 title: Navigating the Mediterranean Blue Economy: Data-Driven Insights for Sustainable Growth
 date: 2024-03-22T15:04:10.000Z
 description: >

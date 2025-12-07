@@ -1,4 +1,9 @@
 ---
+title: "Untitled"
+date: "2025-12-07T22:10:38.191Z"
+draft: false
+---
+---
 title: The Minimalist ETL Pipeline: Automating ESG Data Collection with Python & Spark
 date: 2024-03-10T15:04:10.000Z
 description: >

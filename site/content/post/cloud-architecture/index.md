@@ -1,4 +1,9 @@
 ---
+title: "Untitled"
+date: "2025-12-07T22:10:38.212Z"
+draft: false
+---
+---
 title: Choosing Your Cloud: A Guide to Modern Data Architectures on AWS, Azure, and GCP
 date: 2024-04-15T15:04:10.000Z
 description: Leverage our expertise with modern data technologies and architectures, including major cloud platforms (AWS, Azure, Google Cloud). Learn how to deploy scalable data warehouses and big data frameworks to handle high volumes of transactional data.

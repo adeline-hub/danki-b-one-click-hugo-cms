@@ -1,4 +1,9 @@
 ---
+title: "Untitled"
+date: "2025-12-07T22:10:38.209Z"
+draft: false
+---
+---
 title: Data Art as Activism: The Legacy of W.E.B. Du Bois in Modern Data Visualization
 date: 2024-11-25T15:04:10.000Z
 description: >

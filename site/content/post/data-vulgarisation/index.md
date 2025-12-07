@@ -1,4 +1,9 @@
 ---
+title: "Untitled"
+date: "2025-12-07T22:10:38.208Z"
+draft: false
+---
+---
 title: The Power of Simplicity: Using Data Vulgarisation to Drive Project Success in International Development
 date: 2024-08-10T15:04:10.000Z
 description: >

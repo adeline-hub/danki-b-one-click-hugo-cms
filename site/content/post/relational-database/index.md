@@ -1,4 +1,9 @@
 ---
+title: "Untitled"
+date: "2025-12-07T22:10:38.190Z"
+draft: false
+---
+---
 title: Reconstructing the Relational Database: A Case Study in Auditing a Historical Data Stack
 date: 2024-09-15T15:04:10.000Z
 description: >
